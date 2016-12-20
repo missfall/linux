@@ -1,3 +1,4 @@
-# linux  Sync folder between remote and local server
+# linux  
 
+-- Sync folder between remote and local server
 
