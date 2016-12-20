@@ -1,10 +1,10 @@
 # Linux  Bash
 
-# sync.sh:
+## sync.sh:
 
 -- Sync folder between remote and local server
 
-# useradd.sh:
+## useradd.sh:
 
 this script to add user on linux server, also perform below tasks:
 
@@ -18,3 +18,6 @@ add samba user with username same as userid
 
 add user to specific group
 
+## passwordchange.sh
+
+change user passsword on multiple server
