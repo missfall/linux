@@ -21,3 +21,8 @@ add user to specific group
 ## passwordchange.sh
 
 change user passsword on multiple server
+
+##check_proc.sh
+  check if a process is running if not then start the process
+
+## backup/:  Scripts to take linux server backup on remote server
