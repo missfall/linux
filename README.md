@@ -25,7 +25,9 @@ change user passsword on multiple server
 ##check_proc.sh
   check if a process is running if not then start the process
 
-## backup/:  Scripts to take linux server backup on remote server
+## backup directory:  
+'''Scripts to take linux server backup on remote server'''
 
-## ticket_distributor.py : script to distribute tickets/number randomly to multiple users
+## ticket_distributor.py: 
+'''script to distribute tickets/number randomly to multiple users'''
 
