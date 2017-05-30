@@ -4,8 +4,9 @@
   ```Sync folder between remote and local server```
 
 ### useradd.sh:
-  ```Script to add user on linux server, also perform below tasks:
 
+  ```Script to add user on linux server, also perform below tasks:```
+  ```
     1.add user
     2.add username to sshd_conf file
     3.allow user to login from single IP only (entry on access.conf file)
