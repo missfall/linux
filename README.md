@@ -5,7 +5,7 @@
 
 ### useradd.sh:
 
-  ```Script to add user on linux server, also perform below tasks:```
+  ``Script to add user on linux server, also perform below tasks:``
   ```
     1.add user
     2.add username to sshd_conf file
@@ -15,16 +15,16 @@
 ```
 
 ### passwordchange.sh:
-  ```change single user passsword on multiple server```
+  ```change single user's passsword on multiple servers```
 
 ### check_proc.sh:
   ```check if a process is running if not then start the process```
 
+### ticket_distributor.py: 
+  ```script to distribute tickets/number randomly to multiple users```
+
 ## backup directory:  
   ```Scripts to take linux server backup on remote server```
 
-### ticket_distributor.py: 
-  '''script to distribute tickets/number randomly to multiple users'''
-
 ## contact:
-`sanjaym756@gmail.com`
+  `sanjaym756@gmail.com`
